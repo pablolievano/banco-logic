@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.edu.usbcali.banco.repository.TestClienteRepository
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.532 s - in co.edu.usbcali.banco.repository.TestClienteRepository

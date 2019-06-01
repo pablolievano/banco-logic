@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.edu.usbcali.banco.service.TestTipoDocumentoService
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.417 s - in co.edu.usbcali.banco.service.TestTipoDocumentoService
